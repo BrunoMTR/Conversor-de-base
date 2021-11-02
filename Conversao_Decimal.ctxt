@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Conversao_Decimal
+comment1.params=arrayNr\ base
+comment1.target=int\ Transmudar(java.util.ArrayList,\ int)
+numComments=2

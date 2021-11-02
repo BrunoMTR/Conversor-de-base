@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=InterfaceGrafica
+comment1.params=
+comment1.target=InterfaceGrafica()
+comment2.params=lbInformacoes
+comment2.target=void\ Ler(javax.swing.JLabel)
+comment3.params=
+comment3.target=void\ LookFeel()
+comment4.params=
+comment4.target=void\ DefinicaoClasse()
+comment5.params=e
+comment5.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7
